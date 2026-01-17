@@ -47,7 +47,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aunali6783&theme=radical&no-bg=true&row=1&column=6" />
@@ -55,18 +55,16 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aunali6783&show_icons=true&theme=tokyonight" width="48%" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=aunali6783&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunali6783&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunali6783&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ### 🐍 Contribution Snake
 
