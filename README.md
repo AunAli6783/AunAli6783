@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aunali6783&style=for-the-badge&label=PROFILE+VIEWS&color=00e5ff" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aunali6783?label=FOLLOWERS&style=for-the-badge&color=3b82f6" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=AunAli6783&style=for-the-badge&label=PROFILE+VIEWS&color=00e5ff" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AunAli6783?label=FOLLOWERS&style=for-the-badge&color=3b82f6" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Location-Lahore,%20PK-ff69b4?style=for-the-badge&logo=googlemaps" alt="Location" />
 </div>
 
@@ -80,15 +80,13 @@ I am a Computer Science student and an **AI/ML enthusiast** dedicated to bridgin
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aunali6783&theme=radical&no-bg=true&row=1&column=6" alt="Trophies" />
-</p>
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aunali6783&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunali6783&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AunAli6783&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AunAli6783&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 <br/>
