@@ -25,15 +25,26 @@ I am a Computer Science student and an **AI/ML enthusiast** dedicated to bridgin
 
 ### 🛠️ Technical Arsenal
 
-| **AI & Machine Learning** | **Frontend & UI** | **Backend & Databases** |
-| :--- | :--- | :--- |
-| `PyTorch` `TensorFlow` | `React` `Next.js` | `FastAPI` `Django` |
-| `LangChain` `HuggingFace` | `TypeScript` `Tailwind` | `Node.js` `Express` |
-| `Scikit-learn` `Pandas` | `Framer Motion` | `PostgreSQL` `MongoDB` |
-| `OpenCV` `NLP` | `Bootstrap` | `MySQL` `SQLite` |
+**Core AI & Machine Learning**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit,opencv,fastapi" />
+  </a>
+</p>
 
-**Languages & Tools**
-`Python` `JavaScript` `C++` `C` | `Git` `Docker` `Linux` `VS Code` `Postman`
+**Full-Stack & Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,js,ts,tailwind,postgres,mongodb,mysql" />
+  </a>
+</p>
+
+**Environment & Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cpp,c" />
+  </a>
+</p>
 
 ---
 
@@ -76,13 +87,11 @@ I am a Computer Science student and an **AI/ML enthusiast** dedicated to bridgin
 </p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=aunali6783&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunali6783&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=aunali6783&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunali6783&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake" />
@@ -92,7 +101,7 @@ I am a Computer Science student and an **AI/ML enthusiast** dedicated to bridgin
 
 ### 🌐 Let's Connect!
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/raja-aun-ali-khan-ab80b1248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -105,7 +114,7 @@ I am a Computer Science student and an **AI/ML enthusiast** dedicated to bridgin
   <a href="https://github.com/AunAli6783">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
@@ -120,7 +129,6 @@ class RajaAun:
         }
 
     def solve_problem(self, task):
-        # Implementation: Thinking -> Coding -> Optimizing -> Deploying
         return f"Task '{task}' resolved with intelligence. 🚀"
 
 # Initializing current status...
